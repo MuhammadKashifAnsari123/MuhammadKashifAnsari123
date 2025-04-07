@@ -28,10 +28,15 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Muhammad Kashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashifansari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifansari&layout=compact&theme=radical)
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKashifAnsari123&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadKashifAnsari123&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-⭐ **Feel free to explore my repositories and collaborate on amazing projects!** 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKashifAnsari123&theme=radical" alt="GitHub Streak" />
+</p>
