@@ -4,10 +4,10 @@
 - 🌱 I’m currently enhancing my skills in **React.js, Next.js & Redux Toolkit**  
 - 👨‍💻 All of my projects are available at **[My Portfolio](your-portfolio-link.com)**  
 - 💬 Ask me about **JavaScript, React, Node.js & MongoDB**  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **muhammadkashifa82@gmail.com**  
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-link)
+[![LinkedIn](https://www.linkedin.com/in/muhammad-kashif-ansari-2186a5277/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](your-twitter-link)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/kashifansari)
 
