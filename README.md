@@ -1,4 +1,4 @@
-I'm Muhammad Kashif Ansari</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Kashif Ansari</h1>
 <h3 align="center">A passionate MERN Stack Developer from PK</h3>
 
 - 🌱 I’m currently enhancing my skills in **React.js, Next.js & Redux Toolkit**  
@@ -40,5 +40,3 @@ I'm Muhammad Kashif Ansari</h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKashifAnsari123&theme=radical" alt="GitHub Streak" />
 </p>
-
-
