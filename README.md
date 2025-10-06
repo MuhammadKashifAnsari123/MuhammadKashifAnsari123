@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from PK</h3>
 
 - 🌱 I’m currently enhancing my skills in **React.js, Next.js & Redux Toolkit**  
-- 👨‍💻 All of my projects are available at **[My Portfolio](your-portfolio-link.com)**  
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.kashifansari.me)**  
 - 💬 Ask me about **JavaScript, React, Node.js & MongoDB**  
 - 📫 How to reach me: **muhammadkashifa82@gmail.com**  
 
